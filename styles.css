@@ -2,7 +2,7 @@
 .holder{
 	width:100vw;
 	height:100vh;
-	border-top-width:2px;
+	border-top:2px;
 	display:flex;
 	justify-content:center;
 	align-items:center;
